@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Node.js",
+    "priority": "high",
+    "completed": true,
+    "createdAt": "2026-01-31T06:55:16.174Z",
+    "completedAt": "2026-01-31T07:01:07.603Z"
+  },
+  {
+    "id": 2,
+    "title": "Build API",
+    "priority": "medium",
+    "completed": false,
+    "createdAt": "2026-01-31T06:55:23.752Z"
+  },
+  {
+    "id": 3,
+    "title": "Write tests",
+    "priority": "low",
+    "completed": false,
+    "createdAt": "2026-01-31T06:56:31.902Z"
+  }
+]
