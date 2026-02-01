@@ -1,0 +1,11 @@
+# Ignore nested/embedded student repositories and generated files
+week1-day1/engse203-1_68/
+week1-day1/mini-ecommerce/
+week1-day1/my-portfolio/
+week2-day3/workshop-09-nodejs-core/
+week2-day3/workshop-10-express-basics/
+
+# Common ignores
+.DS_Store
+node_modules/
+dist/
