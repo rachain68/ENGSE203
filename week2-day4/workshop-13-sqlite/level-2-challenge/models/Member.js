@@ -1,4 +1,4 @@
-// solutions/Member.js
+// models/Member.js
 const { db } = require('../db');
 
 class Member {
